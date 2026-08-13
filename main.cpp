@@ -2,6 +2,6 @@
 
 
 int main(){
-           std::cout<<"Hello,CMake!"<<std::endl;
+           std::cout<<"Hello,CMake and Git!"<<std::endl;
                       return 0;
 }
